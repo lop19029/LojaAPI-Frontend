@@ -2,7 +2,7 @@
 
 <img src="screenshot.png" alt="exemplo imagem">
 
-> Aplicativo web de uma loja de tênis. Frontend desenvolvido utilizando [Angular](https://angular.io/) e estilizado com [Bootstrap 5](https://getbootstrap.com/). Utiliza como backend à [LojaAPI](https://git.gft.com/aolj/loja-api).
+> Aplicativo web de uma loja de tênis. Frontend desenvolvido utilizando [Angular](https://angular.io/) e estilizado com [Bootstrap 5](https://getbootstrap.com/). Utiliza como backend à [LojaAPI](https://github.com/lop19029/Loja-API).
 
 ### Funções
 
